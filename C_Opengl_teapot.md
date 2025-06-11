@@ -1,8 +1,10 @@
+```
+
 //C 언어로 OpenGL을 사용하여 주전자 돌리는 화면 출력하기.
 //Nuget에서 freeglut 다운로드를 해야합니다.
 //배경색과 주전자색 돌아가는 축 변경
 
-```
+
 #include <windows.h>
 #include <GL/freeglut.h>
 #pragma comment(lib, "freeglut.lib")
