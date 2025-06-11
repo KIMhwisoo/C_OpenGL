@@ -1,3 +1,6 @@
+#C_Opengl_teapot REPORT
+
+
 ```
 
 // C 언어로 OpenGL을 사용하여 회전하는 주전자 출력
